@@ -1,6 +1,9 @@
 # Learning Javascript
 - Some material of studies in JS
 
+## Main code
+- index-emerging-javascript.js
+
 ![](jslogo.png)
 
 ## Topics:
